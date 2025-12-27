@@ -2,7 +2,7 @@ PHP & MySQL Blog Project
 📌 Description
 
 This is a simple Blog Application built using PHP and MySQL.
-It allows users to read blog posts, and the admin can manage posts using CRUD operations.
+Users can read blog posts, and the admin can add new posts only.
 
 🛠 Technologies Used
 
@@ -14,11 +14,7 @@ MySQL
 
 View blog posts
 
-Add new post
-
-Edit post
-
-Delete post
+Add new blog posts
 
 ⚙️ Installation
 
@@ -33,19 +29,19 @@ Start Apache and MySQL
 
 Create a database in phpMyAdmin
 
-Import the database SQL file
+Import the SQL file
 
-Update database details in db.php
+Update database connection in db.php
 
 Open browser:
 
-http://localhost/blog
+http://localhost/blog_system
 
 🎯 Purpose
 
-Learn PHP & MySQL
+Learn PHP & MySQL basics
 
-Practice CRUD operations
+Practice database connection
 
 Junior PHP Developer project
 
